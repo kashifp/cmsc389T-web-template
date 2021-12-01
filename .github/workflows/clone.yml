@@ -17,3 +17,4 @@ jobs:
             ssh-keyscan -H github.com >> ~/.ssh/known_hosts
             cd ../pub
             git clone git@github.com:kashifp/cmsc389T-web-template.git
+            cd cmsc389T-web-template
